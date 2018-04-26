@@ -31,6 +31,7 @@
                                     <li><a href="pack.php">Packages</a></li>
                                     <li><a href="contacts.php">Contacts</a></li>                   
                                     <li><a href="admin.php">Admin</a></li>
+                                    <li><a href="">FAQ</a></li>
                                 </ul>
                             </nav>
                         </div>
